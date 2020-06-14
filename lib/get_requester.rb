@@ -18,5 +18,5 @@ class GetRequester
     JSON.parse(response.body)
   end
 end
-response = GetRequester.new.get_response_body 
-puts response
+# response = GetRequester.new.get_response_body 
+# puts response
