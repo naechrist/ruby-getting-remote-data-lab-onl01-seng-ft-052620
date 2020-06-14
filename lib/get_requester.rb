@@ -18,5 +18,4 @@ class GetRequester
     JSON.parse(get_response_body)
   end
 end
-# response = GetRequester.new.get_response_body 
-# puts response
+
